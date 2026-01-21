@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @Prerakcodes
-- 👀 I’m interested in Coding
--  I’m looking to collaborate on ...
--  How to reach me patelprerak29@gmail.com
--  Fun fact: 
+-  Hi, I’m @Prerakcodes
+-  AI/ML
+-  How to reach me: patelprerak29@gmail.com
